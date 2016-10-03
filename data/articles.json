@@ -14,16 +14,6 @@
       }]
   },
   {
-    "name":"3",
-    "title":"3 de Octubre",
-    "items":[]
-  },
-  {
-    "name":"4",
-    "title":"4 de Octubre",
-    "items":[]
-  },
-  {
     "name":"5",
     "title":"5 de Octubre",
     "items":[{
@@ -42,6 +32,15 @@
     "name":"6",
     "title":"6 de Octubre",
     "items":[{
+        "id": "1",
+        "title":"Domo Bicentenario de la Plaza Civica 18 de Marzo",
+        "primaryColor":"#FF5722",
+        "secondaryColor":"#BF360C",
+        "image":"/img/6octdomo.jpg",
+        "desc":"A partir de las 18:00 horas",
+        "content":"Opera Prima Rock",
+        "lugar": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2221.761635103284!2d-97.46049261314545!3d20.52496087361395!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xf8c02914abd07446!2sPlaza+C%C3%ADvica+18+de+Marzo!5e0!3m2!1sen!2smx!4v1475467656613"
+      },{
         "id": "1",
         "title":"Pergola del Parque Juarez",
         "primaryColor":"#80D8FF",
@@ -105,6 +104,15 @@
     "title":"7 de Octubre",
     "items":[{
         "id": "1",
+        "title":"Domo Bicentenario de la Plaza Civica",
+        "primaryColor":"#80D8FF",
+        "secondaryColor":"#0091EA",
+        "image":"/lugares/juarez.jpg",
+        "desc":"A partir de las 18:00 horas",
+        "content":"Enrique Zuñiga"
+      },
+      {
+        "id": "2",
         "title":"Pergola del Parque Juarez",
         "primaryColor":"#80D8FF",
         "secondaryColor":"#0091EA",
@@ -120,7 +128,7 @@
         "content7": "Los aguas aguas"
         },
         { 
-        "id": "2",
+        "id": "3",
         "title":"Explanada Municipal",
         "primaryColor":"#80D8FF",
         "secondaryColor":"#0091EA",
@@ -132,7 +140,7 @@
         "content3": "Los Estrouberry Clowns, 'Vagabondo Circo'"
       },
       {
-        "id": "3",
+        "id": "4",
         "title":"Parque Cuauhtemoc",
         "primaryColor":"#80D8FF",
         "secondaryColor":"#0091EA",
@@ -145,7 +153,7 @@
         "content4": "Trio Origen Huasteco, Trio Mision Queretana, Homenaje a Roman Guemez"
       },
       {
-        "id": "4",
+        "id": "5",
         "title":"Teatro Social",
         "primaryColor":"#80D8FF",
         "secondaryColor":"#0091EA",
@@ -157,7 +165,7 @@
         "content3": "19:00 horas"
       },
       {
-        "id": "5",
+        "id": "6",
         "title":"Auditorio Municipal",
         "primaryColor":"#80D8FF",
         "secondaryColor":"#0091EA",
@@ -172,8 +180,17 @@
   {
     "name":"8",
     "title":"8 de Octubre",
-    "items":[{
+    "items":[
+        {
         "id": "1",
+        "title":"Domo Bicentenario de la Plaza Civica",
+        "primaryColor":"#80D8FF",
+        "secondaryColor":"#0091EA",
+        "image":"/lugares/juarez.jpg",
+        "desc":"A partir de las 18:00 horas",
+        "content":"Lila Downs"
+      },{
+        "id": "2",
         "title":"Pergola del Parque Juarez",
         "primaryColor":"#80D8FF",
         "secondaryColor":"#0091EA",
@@ -185,7 +202,7 @@
         "content3": "Canto del Pueblo"
       },
       {
-        "id": "2",
+        "id": "3",
         "title":"Explanada Municipal",
         "primaryColor":"#80D8FF",
         "secondaryColor":"#0091EA",
@@ -197,7 +214,7 @@
         "content3": "Los Estrouberry Clowns, 'Yap el Payaso y su cirko de bolsillo'"
       },
       {
-        "id": "3",
+        "id": "4",
         "title":"Parque Cuauhtemoc",
         "primaryColor":"#80D8FF",
         "secondaryColor":"#0091EA",
@@ -209,7 +226,7 @@
         "content3": "Armando Mora, 'Divina Mujer, Homenaje a Agustin Lara'"
        },
       {
-        "id": "4",
+        "id": "5",
         "title":"Teatro Social",
         "primaryColor":"#80D8FF",
         "secondaryColor":"#0091EA",
@@ -219,7 +236,7 @@
         "content1": "Homenaje a Alberto Cruz"
      },
      {
-        "id": "5",
+        "id": "6",
         "title":"Auditorio Municipal",
         "primaryColor":"#80D8FF",
         "secondaryColor":"#0091EA",
@@ -228,6 +245,18 @@
         "content":"Conferencia '35 años entre la Historia y la Promocion Cultural en Veracruz'",
         "content1": "Taller de Zapateado Tradicional",
         "content2": "Gustavo Vergara, 10:00 horas"
+     },
+     {
+        "id": "7",
+        "title":"Parque de las Americas",
+        "primaryColor":"#80D8FF",
+        "secondaryColor":"#0091EA",
+        "image":"/lugares/juarez.jpg",
+        "desc":"A partir de las 18:00 horas",
+        "content":"Circo Excentrico",
+        "content1": "Luis Vazquez, Cantante",
+        "content2": "Itzel Villalobos, CuentaCuentos",
+        "content3": "Ballet Folklorico Onahuac, ITSPR"
      }]
   },
   {

@@ -11,12 +11,23 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
 <link rel="import" href="../bower_components/polymer/polymer.html">
 <link rel="import" href="../bower_components/paper-fab/paper-fab.html">
 <link rel="import" href="app-icons.html">
+<link rel="import" href="../bower_components/google-map/google-map.html">
+<link rel="import" href="../bower_components/google-map/google-map-directions.html">
+<link rel="import" href="../bower_components/google-map/google-map-elements.html">
+<link rel="import" href="../bower_components/google-map/google-map-marker.html">
+<link rel="import" href="../bower_components/google-map/google-map-point.html">
+<link rel="import" href="../bower_components/google-map/google-map-poly.html">
+<link rel="import" href="../bower_components/google-map/google-map-search.html">
 
 <dom-module id="article-detail">
 
   <template>
 
     <style>
+
+      google-map {
+          height: 200px;
+      }
 
       :host {
         display: block;
@@ -87,10 +98,9 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
     <div class="image" style$="background-color: {{article.primaryColor}}; background-image: url('{{article.image}}')"></div>
 
     <div class="header">
-      <div>{{article.author}}</div>
-      <div class="title" style$="color: {{article.secondaryColor}};">{{article.title}}</div>
-      <div>{{article.date}}</div>
-      <paper-fab icon="app:googleplus-reshare"></paper-fab>
+      <a href="https://www.google.com/maps/place/Parque+Benito+Ju%C3%A1rez/@20.5307641,-97.4613258,18.75z/data=!4m12!1m6!3m5!1s0x0:0xb35a02f5e8512372!2sParque+Benito+Ju%C3%A1rez!8m2!3d20.5308123!4d-97.4604922!3m4!1s0x0:0xb35a02f5e8512372!8m2!3d20.5308123!4d-97.4604922?hl=es"><div class="title" style$="color: {{article.secondaryColor}};">{{article.title}}</div></a>
+         <p> Mapa de la Ubicacion </p>
+      <iframe src="{{article.lugar}}" width="70%" height="250" frameborder="0" style="border: 1px solid #ddd; border-radius: 4px; padding: 5px;" allowfullscreen></iframe>
     </div>
 
     <section class="main">
