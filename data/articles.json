@@ -1,0 +1,286 @@
+[
+  {
+    "name":"inicio",
+    "title":"Inicio",
+    "items":[
+      {
+        "id": "1",
+        "title":"Asiste a la Inauguracion este 5 de Octubre",
+        "primaryColor":"#000000",
+        "secondaryColor":"#424242",
+        "image":"/img/01.jpg",
+        "desc":"Bla bla bla",
+        "content":"The road from design to production is often hard-won, filled with well-intended design detours, steep learning curves, and the occasional road block. Here’s a common scenario: A team of designers begins building wireframes for a new product. Several weeks, revisions, and pin-ups later, they emerge with a “final,” “shippable” file, which they hand off to the development team. The engineers poke holes in the design, deeming several elements “unbuildable,” and begin rendering out some semblance of the design in code. Several weeks later, they deliver a staging site. The designers are thrilled—this is the first time they’ve seen their design IRL—but are quickly deflated when they realize how much of the design has been lost in translation. The typography is wonky. The animations and interactive elements need to be re-tuned. A volley of annotated emails with screenshots ensues, until finally, the designer and developer sit side-by-side, and visually adjust the design directly in code."
+      }]
+  },
+  {
+    "name":"3",
+    "title":"3 de Octubre",
+    "items":[]
+  },
+  {
+    "name":"4",
+    "title":"4 de Octubre",
+    "items":[]
+  },
+  {
+    "name":"5",
+    "title":"5 de Octubre",
+    "items":[{
+        "id": "1",
+        "title":"Inauguracion Oficial en la Explanada Municipal",
+        "primaryColor":"#80D8FF",
+        "secondaryColor":"#0091EA",
+        "image":"/lugares/juarez.jpg",
+        "desc":"A partir de las 18:00 horas",
+        "content":"Ceremonia de Inauguracion",
+        "content1": "Colectivo Poza Rica de las Artes, 'Tema Oficial del Festival'",
+        "content2": "Compañia de Danza Tenochtitlan, 'Raices y Costumbres de Latinoamerica'"
+    }]
+  },
+  {
+    "name":"6",
+    "title":"6 de Octubre",
+    "items":[{
+        "id": "1",
+        "title":"Pergola del Parque Juarez",
+        "primaryColor":"#80D8FF",
+        "secondaryColor":"#0091EA",
+        "image":"/lugares/juarez.jpg",
+        "desc":"A partir de las 18:00 horas",
+        "content":"Grupo de Danza Flolflorica del Colegio san Angel",
+        "content1": "Son Repique",
+        "content2": "Grupo Artistico Tepeyac/Escuela de Bachilleres Oficial 8 Emiliano Zapata",
+        "content3": "Gabriel Quiroz"
+      },
+      {
+        "id": "2",
+        "title":"Explanada Municipal",
+        "primaryColor":"#80D8FF",
+        "secondaryColor":"#0091EA",
+        "image":"/lugares/juarez.jpg",
+        "desc":"A partir de las 18:00 horas",
+        "content":"Art Dance Taller Coreografico",
+        "content1": "Ballet D'Yuvi Quevedo",
+        "content2": "Oro negro y los negros del 32, 'Los Tres Consejos' 'Caballo que vuela por los aires'",
+        "content3": "Ensamble Folklorico Nacional"
+      },
+      {
+        "id": "3",
+        "title":"Parque Cuauhtemoc",
+        "primaryColor":"#80D8FF",
+        "secondaryColor":"#0091EA",
+        "image":"/lugares/juarez.jpg",
+        "desc":"A partir de las 18:00 horas",
+        "content":"Centro de Iniciacion Musical Astro",
+        "content1": "Delfino Guerrero Arpa Internacional",
+        "content2": "Merequetengue, 'La Verdadera Historia de los Tres Cochinitos'",
+        "content3": "Colectivo Amaneceres/Tres Corazones Tutunaku, 'Comprometete Conmigo'"
+      },
+      {
+        "id": "4",
+        "title":"Teatro Social",
+        "primaryColor":"#80D8FF",
+        "secondaryColor":"#0091EA",
+        "image":"/lugares/juarez.jpg",
+        "desc":"A partir de las 19:00 horas",
+        "content":"Apoc Apoc",
+        "content1": "'Antes del Rojo, Noche de Hormigas Moras'"
+      },
+      {
+        "id": "5",
+        "title":"Auditorio Municipal",
+        "primaryColor":"#80D8FF",
+        "secondaryColor":"#0091EA",
+        "image":"/lugares/juarez.jpg",
+        "desc":"",
+        "content":"Conferencia 'Teatro de Papel y sus Multiples Posibilidades Dramaticas'",
+        "content1": "Lorenzo Potrillo, 10:00 horas",
+        "content2": "Presentacion del Libro 'Un Huapango de Animales'",
+        "content3": "Eduardo Bustos, 17:00 horas"
+      }]
+  },
+  {
+    "name":"7",
+    "title":"7 de Octubre",
+    "items":[{
+        "id": "1",
+        "title":"Pergola del Parque Juarez",
+        "primaryColor":"#80D8FF",
+        "secondaryColor":"#0091EA",
+        "image":"/lugares/juarez.jpg",
+        "desc":"A partir de las 18:00 horas",
+        "content":"Rock en el Juarez",
+        "content1": "Fonetica",
+        "content2": "Radioscopio",
+        "content3": "Dia de Caza",
+        "content4": "Siberia",
+        "content5": "Plugg 7",
+        "content6": "Solucion Magenta",
+        "content7": "Los aguas aguas"
+        },
+        { 
+        "id": "2",
+        "title":"Explanada Municipal",
+        "primaryColor":"#80D8FF",
+        "secondaryColor":"#0091EA",
+        "image":"/lugares/juarez.jpg",
+        "desc":"A partir de las 18:00 horas",
+        "content":"Juglaria Circo y Narracion",
+        "content1": "Teatro MUF, 'Telas Magicas'",
+        "content2": "Conservatorio de Danza Athie, 'Gala de Danza' y Homenaje a Sonia Athie",
+        "content3": "Los Estrouberry Clowns, 'Vagabondo Circo'"
+      },
+      {
+        "id": "3",
+        "title":"Parque Cuauhtemoc",
+        "primaryColor":"#80D8FF",
+        "secondaryColor":"#0091EA",
+        "image":"/lugares/juarez.jpg",
+        "desc":"A partir de las 18:00 horas",
+        "content":"Orquesta Sinfonica Esperanza Azteca Poza Rica",
+        "content1": "Gugui Dance Studio",
+        "content2": "Compañia de Danza Tenochtitlan, 'Raices y Costumbres de Latinoamerica'",
+        "content3": "Encuentro de los Dos Sones: Son los Perez, Son de Mar, Cafe Cafe, Trio Valle Dorado",
+        "content4": "Trio Origen Huasteco, Trio Mision Queretana, Homenaje a Roman Guemez"
+      },
+      {
+        "id": "4",
+        "title":"Teatro Social",
+        "primaryColor":"#80D8FF",
+        "secondaryColor":"#0091EA",
+        "image":"/lugares/juarez.jpg",
+        "desc":" ",
+        "content": "Conferencia 'La Juventud de Hoy', Juan Manuel Alonso",
+        "content1": "10:00 horas",
+        "content2": "Producciones de Nadie, 'La Audicion'",
+        "content3": "19:00 horas"
+      },
+      {
+        "id": "5",
+        "title":"Auditorio Municipal",
+        "primaryColor":"#80D8FF",
+        "secondaryColor":"#0091EA",
+        "image":"/lugares/juarez.jpg",
+        "desc":" ",
+        "content": "Conferencia 'Produccion y Organizacion de Espectaculos'",
+        "content1": "Fernando Rondall, 10:00 horas",
+        "content2": "Conferencia 'Procuracion de Fondos para Asociaciones Civiles'",
+        "content3": "Hugo Lopez, 17:00 horas"
+      }]
+  },
+  {
+    "name":"8",
+    "title":"8 de Octubre",
+    "items":[{
+        "id": "1",
+        "title":"Pergola del Parque Juarez",
+        "primaryColor":"#80D8FF",
+        "secondaryColor":"#0091EA",
+        "image":"/lugares/juarez.jpg",
+        "desc":"A partir de las 18:00 horas",
+        "content":"Grupo de Teatro del Centro Escolar Albatros",
+        "content1": "Sinergia JAZZ",
+        "content2": "Infanteria Teatral Esos Locos Bajitos 'Caperucita Roja'",
+        "content3": "Canto del Pueblo"
+      },
+      {
+        "id": "2",
+        "title":"Explanada Municipal",
+        "primaryColor":"#80D8FF",
+        "secondaryColor":"#0091EA",
+        "image":"/lugares/juarez.jpg",
+        "desc":"A partir de las 18:00 horas",
+        "content":"Alumnos del Taller de CuentaCuentos",
+        "content1": "Juglaria Circo y Narracion",
+        "content2": "Monedita de Oro, 'No me molestes porque estoy leyendo'",
+        "content3": "Los Estrouberry Clowns, 'Yap el Payaso y su cirko de bolsillo'"
+      },
+      {
+        "id": "3",
+        "title":"Parque Cuauhtemoc",
+        "primaryColor":"#80D8FF",
+        "secondaryColor":"#0091EA",
+        "image":"/lugares/juarez.jpg",
+        "desc":"A partir de las 18:00 horas",
+        "content":"Compañia de Danza Polinesia Te Poerava",
+        "content1": "Omar Soto Woods",
+        "content2": "Recoveco",
+        "content3": "Armando Mora, 'Divina Mujer, Homenaje a Agustin Lara'"
+       },
+      {
+        "id": "4",
+        "title":"Teatro Social",
+        "primaryColor":"#80D8FF",
+        "secondaryColor":"#0091EA",
+        "image":"/lugares/juarez.jpg",
+        "desc":"A partir de las 19:00 horas",
+        "content":"Oro Negro y los Negros del 32, 'Migrantes'",
+        "content1": "Homenaje a Alberto Cruz"
+     },
+     {
+        "id": "5",
+        "title":"Auditorio Municipal",
+        "primaryColor":"#80D8FF",
+        "secondaryColor":"#0091EA",
+        "image":"/lugares/juarez.jpg",
+        "desc":" ",
+        "content":"Conferencia '35 años entre la Historia y la Promocion Cultural en Veracruz'",
+        "content1": "Taller de Zapateado Tradicional",
+        "content2": "Gustavo Vergara, 10:00 horas"
+     }]
+  },
+  {
+    "name":"9",
+    "title":"9 de Octubre",
+    "items":[
+      {
+        "id": "1",
+        "title":"Pergola del Parque Juarez",
+        "primaryColor":"#80D8FF",
+        "secondaryColor":"#0091EA",
+        "image":"/lugares/juarez.jpg",
+        "desc":"A partir de las 18:00 horas",
+        "content":"Colectivo Amaneceres/Tres Corazones Tutunaku, 'Comprometete conmigo'",
+        "content1": "Tinglado Teatro, 'El artefacto teatral'",
+        "content2": "Dance Center"
+      },
+      {
+        "id": "2",
+        "title":"Explanada Municipal",
+        "primaryColor":"#80D8FF",
+        "secondaryColor":"#0091EA",
+        "image":"/lugares/juarez.jpg",
+        "desc":"A partir de las 18:00 horas",
+        "content":"Veracruz... Cuna de Talentos",
+        "content1": "Ballet Folklorico Infantil Tutunaku, Coatzintla",
+        "content1": "Ballet Folklorico Juvenil de Poza Rica",
+        "content1": "Ballet Folklorico Teocihuatl, Tihuatlan",
+        "content1": "Ballet Folklorico Macehuani-Naku, Cazones",
+        "content1": "Ballet Folklorico Internacional Kimbamba, Poza Rica"
+      },
+      {
+        "id": "3",
+        "title":"Parque Cuauhtemoc",
+        "primaryColor":"#80D8FF",
+        "secondaryColor":"#0091EA",
+        "image":"/lugares/juarez.jpg",
+        "desc":"A partir de las 18:00 horas",
+        "content":"Ballet D'Yuvi Quevedo",
+        "content1": "Cklio",
+        "content2": "Ballet Folklorico Mexic Tonantzin Tonatiuh/Ballet Folklorico Mexic Maceu",
+        "content3": "Danzonera 3 Generaciones/Orquesta de Musica Popular de Memo Salamanca"
+     },
+     {
+        "id": "4",
+        "title":"Teatro Social",
+        "primaryColor":"#80D8FF",
+        "secondaryColor":"#0091EA",
+        "image":"/lugares/juarez.jpg",
+        "desc":"A partir de las 11:00 horas",
+        "content":"Ballet de la Ciudad de Mexico",
+        "content1": "'Hansel y Gretel'"
+     }
+    ]
+  }
+]
