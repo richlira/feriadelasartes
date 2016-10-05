@@ -38,7 +38,10 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
   <template>
 
     <style>
-
+      
+      .logo{
+        text-align: center;
+      }
       :host {
         --app-primary-color: #404040;
         -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
@@ -172,17 +175,7 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
       <app-drawer id="drawer">
         <app-header-layout has-scrolling-region>
 
-          <app-header fixed>
 
-            <!-- top toolbar -->
-            <app-toolbar></app-toolbar>
-
-            <!-- bottom toolbar -->
-            <app-toolbar class="title-toolbar nav-title-toolbar">
-              <div class="title"><img src="/img/logo.png"></div>
-            </app-toolbar>
-
-          </app-header>
 
           <!-- nav menu -->
           <iron-selector
@@ -190,11 +183,15 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
               selected="[[categoryData.category]]"
               attr-for-selected="name"
               on-iron-activate="_drawerSelected">
+              <div class="logo"> <img src="/img/logo.png"> </div>
             <template is="dom-repeat" items="[[articles]]">
               <a name="[[item.name]]" href="#/[[item.name]]/list">{{item.title}}</a>
             </template>
           </iron-selector>
-
+          <div class="logo">
+          <br>
+          <img src="/img/logos.gif">
+          </div>
         </app-header-layout>
       </app-drawer>
 

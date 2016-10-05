@@ -24,7 +24,11 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
   <template>
 
     <style>
-
+      
+      .mapa{
+        width: 70%;
+        margin: auto;
+      }
       google-map {
           height: 200px;
       }
@@ -98,9 +102,10 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
     <div class="image" style$="background-color: {{article.primaryColor}}; background-image: url('{{article.image}}')"></div>
 
     <div class="header">
-      <a href="https://www.google.com/maps/place/Parque+Benito+Ju%C3%A1rez/@20.5307641,-97.4613258,18.75z/data=!4m12!1m6!3m5!1s0x0:0xb35a02f5e8512372!2sParque+Benito+Ju%C3%A1rez!8m2!3d20.5308123!4d-97.4604922!3m4!1s0x0:0xb35a02f5e8512372!8m2!3d20.5308123!4d-97.4604922?hl=es"><div class="title" style$="color: {{article.secondaryColor}};">{{article.title}}</div></a>
-         <p> Mapa de la Ubicacion </p>
-      <iframe src="{{article.lugar}}" width="70%" height="250" frameborder="0" style="border: 1px solid #ddd; border-radius: 4px; padding: 5px;" allowfullscreen></iframe>
+      <div class="title" style$="color: {{article.secondaryColor}};">{{article.title}}</div>
+         <p>Mapa de la Ubicacion</p>
+         <p>Selecciona el marcador rojo para crear ruta</p>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1868.2695558759513!2d-97.46052249389864!3d20.525111486273367!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85da6a95299bc9f3%3A0x76044a1656465cca!2sPlaza+Civica+18+de+Marzo%2C+Obrera%2C+93260+Poza+Rica+de+Hidalgo%2C+Ver.!5e0!3m2!1sen!2smx!4v1475693590901" width="70%" height="180" frameborder="0" style="border:0" allowfullscreen></iframe>
     </div>
 
     <section class="main">
