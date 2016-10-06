@@ -103,13 +103,14 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
 
     <div class="header">
       <div class="title" style$="color: {{article.secondaryColor}};">{{article.title}}</div>
-         <p>Mapa de la Ubicacion</p>
+         <p>Mapa de la Ubicación</p>
          <p>Selecciona el marcador rojo para crear ruta</p>
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1868.2695558759513!2d-97.46052249389864!3d20.525111486273367!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85da6a95299bc9f3%3A0x76044a1656465cca!2sPlaza+Civica+18+de+Marzo%2C+Obrera%2C+93260+Poza+Rica+de+Hidalgo%2C+Ver.!5e0!3m2!1sen!2smx!4v1475693590901" width="70%" height="180" frameborder="0" style="border:0" allowfullscreen></iframe>
+        <iframe src="{{article.lugar}}" width="70%" height="70%" frameborder="0" style="border:0" allowfullscreen frameborder="1"></iframe>
     </div>
 
     <section class="main">
-      <h3>{{article.desc}}</h3>
+      <h1>{{article.fecha}}</h1>
+      <h1>{{article.desc}}</h1>
       <p>{{article.content}}</p>
       <p>{{article.content1}}</p>
       <p>{{article.content2}}</p>
